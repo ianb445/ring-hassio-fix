@@ -4,6 +4,8 @@
 A Home Assistant add-on to enable live streams of Ring Cameras.
 This add-on wraps around [Dgreif's excellent work](https://github.com/dgreif/ring) and exposes a livestream.
 
+Note this is a Fork of the original repo to resolve a container issue. Licensing is unchanged from the original.
+
 ## Installation
 1. Add this GitHub repository to your add-on store. 
 2. Configure your Ring Refresh Token and port (see configuration below).
